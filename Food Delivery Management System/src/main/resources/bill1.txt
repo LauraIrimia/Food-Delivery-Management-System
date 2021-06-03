@@ -1,0 +1,5 @@
+Order ID: 1, 03-06-2021 16:20:06, client ID: 19
+Title: Fruit and Seed Bars, rating: 5.0, calories: 118, protein: 2, fat: 9, sodium: 4, price: 84
+Title: White-Bean and Asparagus Salad, rating: 4.375, calories: 772, protein: 47, fat: 53, sodium: 484, price: 15
+Title: Nectarine Salsa, rating: 3.75, calories: 68, protein: 2, fat: 0, sodium: 146, price: 69
+Order price: 168
